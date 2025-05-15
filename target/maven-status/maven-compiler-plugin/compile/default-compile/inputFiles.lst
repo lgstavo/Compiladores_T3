@@ -1,0 +1,11 @@
+/home/luiz/Compiladores-T3/src/main/java/br/ufscar/dc/compiladores/compiladorT3/LASemantico.java
+/home/luiz/Compiladores-T3/src/main/java/br/ufscar/dc/compiladores/compiladorT3/LASemanticoUtils.java
+/home/luiz/Compiladores-T3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/compiladorT3/AlgumaListener.java
+/home/luiz/Compiladores-T3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/compiladorT3/AlgumaLexer.java
+/home/luiz/Compiladores-T3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/compiladorT3/AlgumaParser.java
+/home/luiz/Compiladores-T3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/compiladorT3/AlgumaVisitor.java
+/home/luiz/Compiladores-T3/src/main/java/br/ufscar/dc/compiladores/compiladorT3/Main.java
+/home/luiz/Compiladores-T3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/compiladorT3/AlgumaBaseVisitor.java
+/home/luiz/Compiladores-T3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/compiladorT3/AlgumaBaseListener.java
+/home/luiz/Compiladores-T3/src/main/java/br/ufscar/dc/compiladores/compiladorT3/TabelaDeSimbolos.java
+/home/luiz/Compiladores-T3/src/main/java/br/ufscar/dc/compiladores/compiladorT3/Escopos.java
