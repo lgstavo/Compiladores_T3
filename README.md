@@ -13,6 +13,6 @@ https://www.antlr.org/
 
 Para executar o código utilizar o comando:*** 
 
-java -jar "C:\localização_do_arquivo_fonte\compiladorT2-1.0-SNAPSHOT-jar-with-dependencies.jar" "C:\localização_do_arquivo_de_entrada\entrada.txt" "C:\localização_do_arquivo_de_saida\saida.txt"
+java -jar "C:\localização_do_arquivo_fonte\compiladorT3-1.0-SNAPSHOT-jar-with-dependencies.jar" "C:\localização_do_arquivo_de_entrada\entrada.txt" "C:\localização_do_arquivo_de_saida\saida.txt"
 ncionamento da aplicação.
 
